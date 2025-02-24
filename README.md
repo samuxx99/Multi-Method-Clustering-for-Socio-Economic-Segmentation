@@ -1,5 +1,5 @@
 # Multi-Method-Clustering-for-Socio-Economic-Segmentation
----
+
 This project applies a range of clustering techniques to segment countries based on socio-economic indicators,
 recognizing that these variables do not form perfectly distinct groups. Given the overlapping nature of the
 data, soft clustering methods are particularly appropriate, as they allow for probabilistic membership rather
